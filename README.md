@@ -1,5 +1,5 @@
 # 💫 About Me:
-#Skilled Front End Developer skilled at completing daily assignments and contributing to team success. <br>#Adapts quickly to new needs and policies.<br>#Willing to take on any task to support the team and help the business succeed.<br>#Develop and Manage software applications.<br>#Possesses good knowledge of the following but not limited to:<br>React, Javascript, HTML5 & CSS3.<br>#Ability to work with diverse teams.<br>#Ability to demonstrate self-motivation, a positive attitude and good communication skills.
+#Skilled Front End Developer skilled at completing daily assignments and contributing to team success. <br>#Adapts quickly to new needs and policies.<br>#Willing to take on any task to support the team and help the business succeed.<br>#Develop and Manage software applications.<br>#Possesses good knowledge of the following but not limited to:<br>React, Javascript, HTML5 & CSS3, Building Responsive Designs.<br>#Ability to work with diverse teams.<br>#Ability to demonstrate self-motivation, a positive attitude and good communication skills.
 
 
 ## 🌐 Socials:
